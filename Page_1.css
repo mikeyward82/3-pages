@@ -1,0 +1,19 @@
+body {
+    background-image:url("https://i.pinimg.com/736x/cb/24/b5/cb24b59687c95cc522f6b6b36a478157.jpg");
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #4c95af;
+    color: rgb(152, 167, 194);
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  button:hover {
+    background-color: #fafcfa;
+    cursor: pointer;
+  }
